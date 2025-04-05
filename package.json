@@ -1,6 +1,6 @@
 {
   "name": "@bienbk/react-native-google-places-autocomplete",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Customizable Google Places autocomplete component for iOS and Android React-Native apps",
   "main": "GooglePlacesAutocomplete.js",
   "types": "GooglePlacesAutocomplete.d.ts",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bienbk/react-native-google-places-autocomplete.git"
+    "url": "https://github.com/1000m-spaces/react-native-google-places-autocomplete.git"
   },
   "keywords": [
     "autocomplete",
@@ -25,9 +25,9 @@
     "android"
   ],
   "bugs": {
-    "url": "https://github.com/FaridSafi/react-native-google-places-autocomplete/issues"
+    "url": "https://github.com/1000m-spaces/react-native-google-places-autocomplete.git"
   },
-  "homepage": "https://github.com/FaridSafi/react-native-google-places-autocomplete#readme",
+  "homepage": "https://github.com/1000m-spaces/react-native-google-places-autocomplete.git",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "prop-types": "^15.7.2",
